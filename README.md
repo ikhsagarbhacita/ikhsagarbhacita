@@ -38,9 +38,8 @@ Currently focusing on Exploring Unity & C# development (sometimes on Unreal || C
 ---
 
 ## GitHub Stats*
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikhsagarbhacita&theme=dracula" alt="GitHub Streak" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ikhsagarbhacita&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ikhsagarbhacita&layout=compact&theme=dracula)
 
 ---
 
