@@ -37,12 +37,6 @@ Currently focusing on Exploring Unity & C# development (sometimes on Unreal || C
 
 ---
 
-## GitHub Stats*
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ikhsagarbhacita&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ikhsagarbhacita&layout=compact&theme=dracula)
-
----
-
 ## Let's Connect!
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://ikhsagarbhacita.itch.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ikhsa-garbhacita)
