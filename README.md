@@ -39,4 +39,4 @@ Currently focusing on Exploring Unity & C# development (sometimes on Unreal || C
 
 ## Let's Connect!
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://ikhsagarbhacita.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ikhsa-garbhacita)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ikhsa-garbhacita/)
