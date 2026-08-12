@@ -27,8 +27,8 @@ Currently focusing on Exploring Unity & C# development (sometimes on Unreal || C
 
 ---
 
-## Other Programming Languages & Basic Fundamentals
-> Languages I understand the core concepts and fundamental programming logic of:
+## Other Programming Languages (Explorations)*
+> Other programming languages I occasionally dive into, practice, or use in side projects:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,8 +39,8 @@ Currently focusing on Exploring Unity & C# development (sometimes on Unreal || C
 
 ## GitHub Stats*
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ikhsagarbhacita&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsagarbhacita&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
