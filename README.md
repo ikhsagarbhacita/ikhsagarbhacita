@@ -6,7 +6,9 @@
 
 ### Game Development · Gameplay Systems · Interactive Experiences
 
-*"Learning and figuring out how to build fun worlds & tight gameplay mechanics."*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00F5D4&center=true&vcenter=true&width=800&lines=%22Learning+and+figuring+out+how+to+build+fun+worlds+%26+tight+gameplay+mechanics.%22" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -73,7 +75,7 @@ I enjoy experimenting with gameplay mechanics, interactive systems, game prototy
 |   **Gameplay Mechanics**  |   **Small Game Worlds**  |   **Technical Game Development**  |     **Game Assets**    |
 | :-----------------------: | :----------------------: | :-------------------------------: | :--------------------: |
 |    Player interactions    |      Level concepts      |        Gameplay programming       |        Pixel art       |
-|         Game feel         |    Environmental ideas   |            Prototyping            |       3D modeling      |
+|         Game feel         |   Environmental ideas    |            Prototyping            |       3D modeling      |
 |    Interactive systems    |     Game experiments     |        Systems development        | Visual experimentation |
 
 </div>
@@ -193,6 +195,8 @@ Blender · Aseprite · 3D & pixel art
 
 ### Building worlds, one mechanic at a time.
 
-*"Make something fun. Figure out how it works."*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=FF9F1C&center=true&vcenter=true&width=550&lines=%22Make+something+fun.+Figure+out+how+it+works.%22" alt="Typing SVG" />
+</a>
 
 </div>
